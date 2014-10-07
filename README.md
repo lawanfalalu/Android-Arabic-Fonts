@@ -4,7 +4,10 @@ A simple app showing a collection of Arabic fonts
 The beautiful Arabic fonts are underestimated in Android Arabic apps,
 this app is to show that Arabic fonts can be written easily by developers to make use of these gorgeous fonts out there!
 
-![screenshot][1]  ![screenshot][2]
+![screenshot][1]
+
+
+![screenshot][2]
 
 Usage
 ===================
