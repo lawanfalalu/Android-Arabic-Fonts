@@ -4,6 +4,9 @@ A simple app showing a collection of Arabic fonts
 The beautiful Arabic fonts are underestimated in Android Arabic apps,
 this app is to show that Arabic fonts can be written easily by developers to make use of these gorgeous fonts out there!
 
+![screenshot][1]
+![screenshot][2]
+
 Usage
 ===================
 I'm using a library called Calligraphy to easily swap between fonts.
@@ -28,3 +31,6 @@ Libraries
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
+
+[1]: https://cloud.githubusercontent.com/assets/4233007/4548008/7b727db4-4e51-11e4-8331-4384b0f75f1b.png
+[2]: https://cloud.githubusercontent.com/assets/4233007/4548009/7ba29bd4-4e51-11e4-83e8-8808422dd173.png
